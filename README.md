@@ -1,6 +1,6 @@
 # A-simple-command-line-program-in-C-for-maintaining-a-patient-database-
-![Uploading Screenshot from 2025-09-15 15-19-37.png…]()
 
+<img width="1117" height="473" alt="Screenshot from 2025-09-15 15-19-37" src="https://github.com/user-attachments/assets/cb40482e-f5fd-4ce4-b080-0db8b3d57238" />
 
 ````markdown
 # Patient Registry (C)
