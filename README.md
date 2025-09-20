@@ -120,12 +120,10 @@ This will:
 .
 ├── .gitignore
 ├── LICENSE
-├── Makefile
 ├── README.md
 ├── main.c
 ├── patientData.txt
-└── tests/
-    └── run_examples.sh
+
 ```
 
 ---
